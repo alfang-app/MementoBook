@@ -3,6 +3,10 @@ Project to store your collections of experiences/story/history in a stylish, eas
 
 Build something cool, useful,  end to end
 
+
+Techstack: Heroku, node js, react, google+
+	SQL, objectstore
+
 Me: photo album:
 1. INFRA: server, api, ui , storage…
 2. Tabs: MEMORYALBUM, ABOUT ME
